@@ -1,0 +1,21 @@
+{
+  "name": "demo44",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahaahaddad/demo3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahaahaddad/demo3/issues"
+  },
+  "homepage": "https://github.com/bahaahaddad/demo3#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
